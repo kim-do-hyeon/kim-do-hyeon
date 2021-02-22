@@ -34,7 +34,8 @@
 ### My Certificate ###
 ```
   - Computer literacy level 1
-  - FTK Ace v6 (Digital Forensics Certificate)
+  - FTK Ace v6 (Digital Forensics Certificate) / (2020.04.28)
+  - FTK Ace v7 (Digital Forensics Certificate) / (2021.02.22)
   - ITQ etc
 ```
 
