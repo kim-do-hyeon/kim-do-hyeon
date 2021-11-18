@@ -21,6 +21,7 @@
  - 2020 - NEWSECU Chall (Hosted by NEWSECU Challenge)
  - 2020 - Announcement for NEWSECU Seminar (NEWSECU CHALL)
  - 2020 - Inflearn Vulnerability Report
+ - 2021 - DFC (Digital Forensics Challenge) - second place
 ...
 ```
 
