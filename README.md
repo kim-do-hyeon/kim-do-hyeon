@@ -22,6 +22,7 @@
  - 2020 - Announcement for NEWSECU Seminar (NEWSECU CHALL)
  - 2020 - Inflearn Vulnerability Report
  - 2021 - DFC (Digital Forensics Challenge) - second place
+ - 2021 - KDFS (KDFS Challenge) - first place
 ...
 ```
 
