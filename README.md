@@ -30,7 +30,9 @@
   - Smart Receipt with OCR (2018.05 - 2019.02)
   - Volatility Gui Auto Analyzer (2020.11 - ing)
   - iPhone Forensics Tools (2021.02 - ing)
-  - JJ Cyber Campus Manage Tool (2021.03 - ing)
+  - JJ Cyber Campus Manage Tool (2021.03 - 2021.12)
+  - Revu Ads Center Management Tool (2022.01)
+  - Re Design magicedition.com
 ```
 
 ### My Certificate ###
