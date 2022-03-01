@@ -33,6 +33,8 @@
   - JJ Cyber Campus Manage Tool (2021.03 - 2021.12)
   - Revu Ads Center Management Tool (2022.01)
   - Re Design magicedition.com
+  - Develop dgedu.kr (KT teacher, safe call)
+  - Make WebPage drlohas.co.kr (Samsung Lohas Medical)
 ```
 
 ### My Certificate ###
