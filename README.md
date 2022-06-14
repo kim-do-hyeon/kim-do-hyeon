@@ -8,6 +8,12 @@
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/https://www.facebook.com/dohyeon.pental/)](https://www.facebook.com/dohyeon.pental/)
   [![Instagram Badge](https://img.shields.io/badge/instagram-d14836?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pental.20)](https://instagram.com/pental.20)
   
+### Contact 📱
+```
+pental@system32.kr
+pental@kakao.com
+```
+  
 <!-- ### Programming Languages  :rocket:
 <img src="https://github.com/D3vle0/D3vle0/blob/main/img/c.png?raw=true" width=30>  <img src="https://raw.githubusercontent.com/D3vle0/D3vle0/a9995e467dde97c42a93cba08893fd96493a03ab/img/python.svg" width=30>  <img src="https://github.com/D3vle0/D3vle0/blob/main/img/nodejs.png?raw=true" width=30>     -->
 
