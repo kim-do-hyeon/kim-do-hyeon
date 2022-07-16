@@ -40,6 +40,7 @@ pental@kakao.com
  - 2017 - eDigitalForensics Challenge - the grand prize
  - 2018 - Youth Future Imagination Technology Competition - a gold statue
  - 2018 - NEWSECU CTF (Hosted by NEWSECU CTF)
+ - 2019 - A patent application called artificial intelligence technology using a smart receipt system
  - 2019 - NEWSECU CTF (Hosted by NEWSECU CTF)
  - 2019 - Announcement of ksis X NEWSECU Seminar (Digital Forensisc with CTF)
  - 2020 - NEWSECU Chall (Hosted by NEWSECU Challenge)
