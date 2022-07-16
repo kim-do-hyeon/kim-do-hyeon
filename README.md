@@ -45,7 +45,7 @@ pental@kakao.com
  - 2019 - Announcement of ksis X NEWSECU Seminar (Digital Forensisc with CTF)
  - 2020 - NEWSECU Chall (Hosted by NEWSECU Challenge)
  - 2020 - Announcement for NEWSECU Seminar (NEWSECU CHALL)
- - 2020 - Inflearn Vulnerability Report
+ - 2020 - Inflearn Vulnerability Report(Related Personal Information)
  - 2021 - DFC (Digital Forensics Challenge) - second place
  - 2021 - KDFS (KDFS Challenge) - first place
 ```
@@ -65,6 +65,7 @@ pental@kakao.com
 ### My Certificate ###
 ```
   - Computer literacy level 1
+  - Linux Master Certificate level 2
   - FTK Ace v6 (Digital Forensics Certificate) / (2020.04.28)
   - FTK Ace v7 (Digital Forensics Certificate) / (2021.02.22)
   - ITQ etc
