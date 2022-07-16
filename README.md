@@ -7,15 +7,33 @@
 ### Social Netwokring 💬
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/https://www.facebook.com/dohyeon.pental/)](https://www.facebook.com/dohyeon.pental/)
   [![Instagram Badge](https://img.shields.io/badge/instagram-d14836?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pental.20)](https://instagram.com/pental.20)
-  
+
 ### Contact 📱
 ```
 pental@system32.kr
 pental@kakao.com
 ```
+
+
+
+**Languages and Tools:** 
+
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C"></code>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python"></code>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" ></code>
+/
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL"></code>
+/
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"></code>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash"></code>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux"></code>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"></code>
+<code><img height="20" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP"></code>
   
-<!-- ### Programming Languages  :rocket:
-<img src="https://github.com/D3vle0/D3vle0/blob/main/img/c.png?raw=true" width=30>  <img src="https://raw.githubusercontent.com/D3vle0/D3vle0/a9995e467dde97c42a93cba08893fd96493a03ab/img/python.svg" width=30>  <img src="https://github.com/D3vle0/D3vle0/blob/main/img/nodejs.png?raw=true" width=30>     -->
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-do-hyeon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-do-hyeon&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<br />
 
 ### My Experiences :fire:
 ```
@@ -50,11 +68,6 @@ pental@kakao.com
   - FTK Ace v7 (Digital Forensics Certificate) / (2021.02.22)
   - ITQ etc
 ```
-
-<p style="float:left">
-<img alt="spotify" width="400px" src="https://github-readme-stats.vercel.app/api?username=kim-do-hyeon&show_icons=true&theme=tokyonight"/>&nbsp;&nbsp;&nbsp;
-</p>
-
 
 <!--
 Here are some ideas to get you started:
