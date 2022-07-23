@@ -60,6 +60,7 @@ pental@kakao.com
   - Re Design magicedition.com
   - Develop dgedu.kr (KT teacher, safe call)
   - Make WebPage drlohas.co.kr (Samsung Lohas Medical)
+  - Platform Review Writer (Baedal Minjok, Yogiyo, Coupangeats Ceo Review Auto Write)
 ```
 
 ### My Certificate ###
