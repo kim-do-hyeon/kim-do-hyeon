@@ -65,6 +65,7 @@ pental@kakao.com
 
 ### My Certificate ###
 ```
+  - Digital Forensics Certificate level 2 / (2022.07.29)
   - Computer literacy level 1
   - Linux Master Certificate level 2
   - FTK Ace v6 (Digital Forensics Certificate) / (2020.04.28)
