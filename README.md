@@ -46,9 +46,10 @@ pental@kakao.com
  - 2020 - NEWSECU Chall (Hosted by NEWSECU Challenge)
  - 2020 - Announcement for NEWSECU Seminar (NEWSECU CHALL)
  - 2020 - Inflearn Vulnerability Report(Related Personal Information)
- - 2021 - DFC (Digital Forensics Challenge) - second place
+ - 2021 - DFC (Digital Forensics Challenge) - second place / K2YPLJ (https://dfchallenge.org/winners-2021/)
  - 2021 - KDFS (KDFS Challenge) - first place
  - 2022 - Announcement of HSpace Team Building Hackathon (Information of 2022KDFS)
+ - 2022 - DFC (Digital Fornsics Challenge) - fourth place / BirdLab (https://dfchallenge.org/winners-2022/)
 ```
 
 ### My Projects 😄
