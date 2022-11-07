@@ -49,8 +49,9 @@ pental@kakao.com
  - 2021 - DFC (Digital Forensics Challenge) - second place / K2YPLJ (https://dfchallenge.org/winners-2021/)
  - 2021 - KDFS (KDFS Challenge) - first place
  - 2022 - Announcement of HSpace Team Building Hackathon (Information of 2022KDFS)
- - 2022 - DFC (Digital Fornsics Challenge) - fourth place / BirdLab (https://dfchallenge.org/winners-2022/)
+ - 2022 - DFC (Digital Fornsics Challenge) - an award for excellence / BirdLab (https://dfchallenge.org/winners-2022/)
  - 2022 - A paper submission - A Design of an Intelligent English Vocabulary Learning System based on Context and Vocabulary Group
+ - 2022 - Accnouncement of 2022 ACK - Academic Conference of the Korean Society for Information Processing - participation award
 ```
 
 ### My Projects 😄
