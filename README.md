@@ -2,15 +2,13 @@
 <!--
 <img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.0-9/80385966_114502953381236_6833108576400048128_n.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=zxx0HMQLLg0AX9vGPkS&_nc_ht=scontent-ssn1-1.xx&oh=47d12fde589a42e64939280c7e369b1c&oe=5FAAD48D" width=200px>-->  
 
- - JJ University's Second year in computer science.
+ - JJ University's Third year in computer science.
  - Studying Digital Forensics(iPhone & Memory) & Programming
 ### Social Netwokring 💬
-  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/https://www.facebook.com/dohyeon.pental/)](https://www.facebook.com/dohyeon.pental/)
   [![Instagram Badge](https://img.shields.io/badge/instagram-d14836?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pental.20)](https://instagram.com/pental.20)
 
 ### Contact 📱
 ```
-pental@system32.kr
 pental@kakao.com
 ```
 
