@@ -54,15 +54,17 @@ pental@kakao.com
 
 ### My Projects 😄
 ```
-  - Smart Receipt with OCR (2018.05 - 2019.02)
-  - Volatility Gui Auto Analyzer (2020.11 - ing)
-  - iPhone Forensics Tools (2021.02 - ing)
-  - JJ Cyber Campus Manage Tool (2021.03 - 2021.12)
-  - Revu Ads Center Management Tool (2022.01)
+  - Smart Receipt with OCR
+  - Volatility Gui Auto Analyzer
+  - iPhone Forensics Tools
+  - JJ Cyber Campus Manage Tool
+  - Revu Ads Center Management Tool
   - Re Design magicedition.com
   - Develop dgedu.kr (KT teacher, safe call)
   - Make WebPage drlohas.co.kr (Samsung Lohas Medical)
   - Platform Review Writer (Baedal Minjok, Yogiyo, Coupangeats Ceo Review Auto Write)
+  - Develop Digital WaterMarking Platform with patreon
+  - Develop Sales Statistic Website
 ```
 
 ### My Certificate ###
@@ -70,6 +72,7 @@ pental@kakao.com
   - Digital Forensics Expert Certificate level 2 / (2022.07.29)
   - Computer literacy level 1
   - Linux Master Certificate level 2
+  - Word Processor
   - FTK Ace v6 (Digital Forensics Certificate) / (2020.04.28)
   - FTK Ace v7 (Digital Forensics Certificate) / (2021.02.22)
   - ITQ etc
