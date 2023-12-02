@@ -48,8 +48,10 @@ pental@kakao.com
  - 2021 - KDFS (KDFS Challenge) - first place
  - 2022 - Announcement of HSpace Team Building Hackathon (Information of 2022KDFS)
  - 2022 - DFC (Digital Fornsics Challenge) - an award for excellence / BirdLab (https://dfchallenge.org/winners-2022/)
- - 2022 - A paper submission - A Design of an Intelligent English Vocabulary Learning System based on Context and Vocabulary Group
+ - 2022 - A paper submission - A Design of an Intelligent English Vocabulary Learning System based on Context and Vocabulary Group(ACK2022)
  - 2022 - Accnouncement of 2022 ACK - Academic Conference of the Korean Society for Information Processing - participation award
+ - 2023 - A paper submission - Development of Context and Vocabulary Group-Based Intelligent English Vocabulary Learning System(ACK2023)
+ - 2023 - A paper submission - Development of Context and Vocabulary Group-Based Intelligent English Vocabulary Learning System(CSA2023)
 ```
 
 ### My Projects 😄
