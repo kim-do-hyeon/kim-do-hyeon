@@ -28,8 +28,6 @@ pental@kakao.com
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker"></code>
 <code><img height="20" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP"></code>
   
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kim-do-hyeon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-do-hyeon&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 <br />
 
