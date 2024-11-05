@@ -50,6 +50,8 @@ pental@kakao.com
  - 2022 - A paper submission - A Design of an Intelligent English Vocabulary Learning System based on Context and Vocabulary Group(ACK2022)
  - 2022 - Accnouncement of 2022 ACK - Academic Conference of the Korean Society for Information Processing - participation award
  - 2023 - A paper submission - Development of Context and Vocabulary Group-Based Intelligent English Vocabulary Learning System(ACK2023)
+ - 2024 - BOB 13th - Enter the Best of the Best Program
+ - 2024 - Find the Digital Criminals (제 10회 디지털 범인을 찾아라) - Silver Award
 ```
 
 ### My Projects 😄
