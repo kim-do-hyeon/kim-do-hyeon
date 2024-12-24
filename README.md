@@ -4,6 +4,9 @@
 
  - JJ University's Senior year in computer science.
  - Studying Digital Forensics(iPhone & Memory) & Programming
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-do-hyeon)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Social Netwokring 💬
   [![Instagram Badge](https://img.shields.io/badge/instagram-d14836?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pental.20)](https://instagram.com/pental.20)
 
