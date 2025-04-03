@@ -62,6 +62,7 @@ pental@kakao.com
  - 2023 - A paper submission - Development of Context and Vocabulary Group-Based Intelligent English Vocabulary Learning System(ACK2023)
  - 2024 - BOB 13th - Enter the Best of the Best Program
  - 2024 - Find the Digital Criminals (제 10회 디지털 범인을 찾아라) - Silver Award
+ - 2025 - BOB 13th Grand Prix Award
 ```
 
 ### My Projects 😄
