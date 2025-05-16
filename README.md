@@ -91,16 +91,3 @@ pental@kakao.com
   - ITQ etc
   - Engineer Information Processing
 ```
-![포트폴리오_김도현_240917_page-0001](https://github.com/user-attachments/assets/9ba655b0-36be-4349-8165-fc3c62ae822e)
-![포트폴리오_김도현_240917_page-0002](https://github.com/user-attachments/assets/3c43c479-cb7d-4572-a4ec-eff20d3a47c9)
-![포트폴리오_김도현_240917_page-0003](https://github.com/user-attachments/assets/be319497-819c-40a5-b1a6-809ca69e5851)
-![포트폴리오_김도현_240917_page-0004](https://github.com/user-attachments/assets/1ccc9268-28f2-4f77-9c65-aa965e84d485)
-![포트폴리오_김도현_240917_page-0005](https://github.com/user-attachments/assets/6c28562c-a670-4d26-ae38-4ba1a6b258ee)
-![포트폴리오_김도현_240917_page-0006](https://github.com/user-attachments/assets/e3bdcca7-0c0b-4850-bc25-583b685f47c2)
-![포트폴리오_김도현_240917_page-0007](https://github.com/user-attachments/assets/8156f985-22db-4c10-ae18-24d20d46aace)
-![포트폴리오_김도현_240917_page-0008](https://github.com/user-attachments/assets/5630b7be-8214-452f-9cb0-ae5b5cd00d55)
-![포트폴리오_김도현_240917_page-0009](https://github.com/user-attachments/assets/32973351-521b-49d0-8344-42e92e5bfa25)
-![포트폴리오_김도현_240917_page-0010](https://github.com/user-attachments/assets/ea41b7f2-5273-43f6-89d9-f9d47e3269d6)
-![포트폴리오_김도현_240917_page-0011](https://github.com/user-attachments/assets/be864203-4c26-4dbe-ae32-a57200030e29)
-![포트폴리오_김도현_240917_page-0012](https://github.com/user-attachments/assets/c81681d5-b7d8-42cc-973f-590ce74fd6e0)
-![포트폴리오_김도현_240917_page-0013](https://github.com/user-attachments/assets/e5fcdc08-f08d-4509-b2dc-bdcda6dd6b90)
