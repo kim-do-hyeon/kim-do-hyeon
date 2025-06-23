@@ -55,14 +55,16 @@ pental@kakao.com
  - 2020 - Inflearn Vulnerability Report(Related Personal Information)
  - 2021 - DFC (Digital Forensics Challenge) - second place / K2YPLJ (https://dfchallenge.org/winners-2021/)
  - 2021 - KDFS (KDFS Challenge) - first place
- - 2022 - Announcement of HSpace Team Building Hackathon (Information of 2022KDFS)
+ - 2022 - Announcement of HSpace Team Building Hackathon (Information of 2022 KDFS)
  - 2022 - DFC (Digital Fornsics Challenge) - an award for excellence / BirdLab (https://dfchallenge.org/winners-2022/)
- - 2022 - A paper submission - A Design of an Intelligent English Vocabulary Learning System based on Context and Vocabulary Group(ACK2022)
+ - 2022 - A paper submission - A Design of an Intelligent English Vocabulary Learning System based on Context and Vocabulary Group(ACK 2022)
  - 2022 - Accnouncement of 2022 ACK - Academic Conference of the Korean Society for Information Processing - participation award
- - 2023 - A paper submission - Development of Context and Vocabulary Group-Based Intelligent English Vocabulary Learning System(ACK2023)
+ - 2023 - A paper submission - Development of Context and Vocabulary Group-Based Intelligent English Vocabulary Learning System(ACK 2023)
  - 2024 - BOB 13th - Enter the Best of the Best Program
  - 2024 - Find the Digital Criminals (제 10회 디지털 범인을 찾아라) - Silver Award
- - 2025 - BOB 13th Grand Prix Award
+ - 2025 - BOB 13th Grand Prix Award (Deepfake Integration Solution)
+ - 2025 - A paper submission - Decryption and Artifact Analysis of KakaoTalk Data in the iOS Environment (KCI, doi.org/10.9728/dcs.2025.26.5.1363)
+ - 2025 - A paper submission - Forensic Analysis of Kakao T Artifactson Mobile Platforms (CISC-S 2025)
 ```
 
 ### My Projects 😄
@@ -82,12 +84,12 @@ pental@kakao.com
 
 ### My Certificate ###
 ```
+  - Engineer Information Processing (2024.06)
+  - Engineer information security (2025.05)
   - Digital Forensics Expert Certificate level 2 / (2022.07.29)
-  - Computer literacy level 1
-  - Linux Master Certificate level 2
-  - Word Processor
-  - FTK Ace v6 (Digital Forensics Certificate) / (2020.04.28)
   - FTK Ace v7 (Digital Forensics Certificate) / (2021.02.22)
-  - ITQ etc
-  - Engineer Information Processing
+  - FTK Ace v6 (Digital Forensics Certificate) / (2020.04.28)
+  - Computer literacy level 1
+  - Word Processor
+  - Linux Master Certificate level 2
 ```
