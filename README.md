@@ -84,8 +84,8 @@ pental@kakao.com
 
 ### My Certificate ###
 ```
+  - Engineer information Security (2025.05)
   - Engineer Information Processing (2024.06)
-  - Engineer information security (2025.05)
   - Digital Forensics Expert Certificate level 2 / (2022.07.29)
   - FTK Ace v7 (Digital Forensics Certificate) / (2021.02.22)
   - FTK Ace v6 (Digital Forensics Certificate) / (2020.04.28)
