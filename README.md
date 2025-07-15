@@ -80,6 +80,8 @@ pental@kakao.com
   - Platform Review Writer (Baedal Minjok, Yogiyo, Coupangeats Ceo Review Auto Write)
   - Develop Digital WaterMarking Platform with patreon
   - Develop Sales Statistic Website
+  - Develop TAG - Digital Forensics Case assistant Tool (with BoB 13th)
+  - Develop ARGOS - Deepfake guard Service (Full-Stack + iOS Application Developmet) (with BoB 13th GrandPrix)
 ```
 
 ### My Certificate ###
