@@ -7,23 +7,25 @@
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/pental" width="600" height="300"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-do-hyeon&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pental)](https://solved.ac/pental/)
 
-[![Programmers Profile](https://github.com/kim-do-hyeon/github-programmers-rank/blob/master/lib/result.svg)](https://programmers.co.kr)
+## 🏆 Solved.ac 
+<div style="display:flex; gap:1rem; align-items:center;">
+  <a href="https://solved.ac/pental">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pental" alt="Solved.ac Profile" />
+  </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=pental&theme=warm&section=streak" alt="Solved.ac Streak" />
+</div>
 
-
-
-
-### Social Netwokring 💬
-  [![Instagram Badge](https://img.shields.io/badge/instagram-d14836?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pental.20)](https://instagram.com/pental.20)
+## 🧑‍💻 Programmers
+<div style="display:flex; gap:1rem; align-items:center;">
+ <img src="https://github.com/kim-do-hyeon/github-programmers-rank/blob/master/lib/result.svg" alt="Programmers Profile" />
+</div>
 
 ### Contact 📱
 ```
 010-2138-1334
 pental@kakao.com
 ```
-
-
 
 **Languages and Tools:** 
 
