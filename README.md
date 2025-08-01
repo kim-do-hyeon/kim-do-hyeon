@@ -4,8 +4,6 @@
 
  - Studying Digital Forensics(iPhone & Memory) & Programming
 
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/pental" width="600" height="300"/></a>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-do-hyeon&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 Solved.ac 
