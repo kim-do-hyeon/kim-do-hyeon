@@ -86,6 +86,7 @@ pental@kakao.com
 
 ### My Certificate ###
 ```
+  - SQLD (2025.09)
   - Engineer information Security (2025.05)
   - Engineer Information Processing (2024.06)
   - Digital Forensics Expert Certificate level 2 / (2022.07.29)
