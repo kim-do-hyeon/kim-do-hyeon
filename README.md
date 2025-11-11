@@ -65,6 +65,7 @@ pental@kakao.com
  - 2025 - BOB 13th Grand Prix Award (Deepfake Integration Solution)
  - 2025 - A paper submission - Decryption and Artifact Analysis of KakaoTalk Data in the iOS Environment (KCI, doi.org/10.9728/dcs.2025.26.5.1363)
  - 2025 - A paper submission - Forensic Analysis of Kakao T Artifactson Mobile Platforms (CISC-S 2025)
+ - 2025 - DFC (Digital Forensics Challenge) - second place / HSPACE
 ```
 
 ### My Projects 😄
