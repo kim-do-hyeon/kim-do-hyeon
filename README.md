@@ -61,11 +61,12 @@ pental@kakao.com
  - 2022 - Accnouncement of 2022 ACK - Academic Conference of the Korean Society for Information Processing - participation award
  - 2023 - A paper submission - Development of Context and Vocabulary Group-Based Intelligent English Vocabulary Learning System(ACK 2023)
  - 2024 - BOB 13th - Enter the Best of the Best Program
- - 2024 - Find the Digital Criminals (제 10회 디지털 범인을 찾아라) - Silver Award
+ - 2024 - Find the Digital Criminals (제 10회 디지털 범인을 찾아라) - Silver Award (Junior)
  - 2025 - BOB 13th Grand Prix Award (Deepfake Integration Solution)
  - 2025 - A paper submission - Decryption and Artifact Analysis of KakaoTalk Data in the iOS Environment (KCI, doi.org/10.9728/dcs.2025.26.5.1363)
  - 2025 - A paper submission - Forensic Analysis of Kakao T Artifactson Mobile Platforms (CISC-S 2025)
  - 2025 - DFC (Digital Forensics Challenge) - second place / HSPACE
+ - 2025 - Find the Digital Criminals (제 11회 디지털 범인을 찾아라) - Bronze Award (Senior)
 ```
 
 ### My Projects 😄
@@ -87,6 +88,7 @@ pental@kakao.com
 
 ### My Certificate ###
 ```
+  - Big Data Analytics Engineer (2025.12)
   - SQLD (2025.09)
   - Engineer information Security (2025.05)
   - Engineer Information Processing (2024.06)
